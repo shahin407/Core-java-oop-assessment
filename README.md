@@ -2,7 +2,7 @@
   <h1>🎓 Student Product Billing & Management System</h1>
   <p><i>A Core Java + OOP Console Application</i></p>
   <p>
-    <b>Author:</b> Asmit Rawat | <b>Date:</b> 12-04-2026<br>
+    <b>Author:</b> shahin praween | <b>Date:</b> 12-04-2026<br>
     <b>Module:</b> Core Java & Object-Oriented Programming (OOP) Assignment
   </p>
 </div>
